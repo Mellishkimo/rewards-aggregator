@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/rewards-aggregator/static/css/main.a22fafb9.chunk.css",
-    "main.js": "/rewards-aggregator/static/js/main.1f259bec.chunk.js",
-    "main.js.map": "/rewards-aggregator/static/js/main.1f259bec.chunk.js.map",
+    "main.js": "/rewards-aggregator/static/js/main.f9e17139.chunk.js",
+    "main.js.map": "/rewards-aggregator/static/js/main.f9e17139.chunk.js.map",
     "runtime-main.js": "/rewards-aggregator/static/js/runtime-main.6929ead7.js",
     "runtime-main.js.map": "/rewards-aggregator/static/js/runtime-main.6929ead7.js.map",
     "static/js/2.a9e7da52.chunk.js": "/rewards-aggregator/static/js/2.a9e7da52.chunk.js",
     "static/js/2.a9e7da52.chunk.js.map": "/rewards-aggregator/static/js/2.a9e7da52.chunk.js.map",
     "index.html": "/rewards-aggregator/index.html",
-    "precache-manifest.1ac950045cc95975913a2899165fd2d5.js": "/rewards-aggregator/precache-manifest.1ac950045cc95975913a2899165fd2d5.js",
+    "precache-manifest.e03bd1f86b6c83755f821cce6c4efd26.js": "/rewards-aggregator/precache-manifest.e03bd1f86b6c83755f821cce6c4efd26.js",
     "service-worker.js": "/rewards-aggregator/service-worker.js",
     "static/css/main.a22fafb9.chunk.css.map": "/rewards-aggregator/static/css/main.a22fafb9.chunk.css.map",
     "static/js/2.a9e7da52.chunk.js.LICENSE.txt": "/rewards-aggregator/static/js/2.a9e7da52.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.6929ead7.js",
     "static/js/2.a9e7da52.chunk.js",
     "static/css/main.a22fafb9.chunk.css",
-    "static/js/main.1f259bec.chunk.js"
+    "static/js/main.f9e17139.chunk.js"
   ]
 }
