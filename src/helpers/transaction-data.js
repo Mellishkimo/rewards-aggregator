@@ -1,0 +1,17 @@
+export const transactions = [
+    {customer: 'Kamahl F.', date: '2/21/2020', purchaseTotal: 120 },
+    {customer: 'Kamahl F.', date: '1/25/2020', purchaseTotal: 270 },
+    {customer: 'Kamahl F.', date: '3/9/2020', purchaseTotal: 20 },
+    {customer: 'Kamahl F.', date: '1/30/2020', purchaseTotal: 80 },
+    {customer: 'Marianne O.', date: '2/25/2020', purchaseTotal: 100 },
+    {customer: 'Marianne O.', date: '2/12/2020', purchaseTotal: 107 },
+    {customer: 'Marianne O.', date: '3/5/2020', purchaseTotal: 14 },
+    {customer: 'Shelby S.', date: '1/13/2020', purchaseTotal: 114 },
+    {customer: 'Shelby S.', date: '3/11/2020', purchaseTotal: 189 },
+    {customer: 'Gordan C.', date: '2/22/2020', purchaseTotal: 35 },
+    {customer: 'Gordan C.', date: '3/17/2020', purchaseTotal: 56 },
+    {customer: 'Gordan C.', date: '3/29/2020', purchaseTotal: 5 },
+    {customer: 'Terry W.', date: '1/1/2020', purchaseTotal: 463 },
+    {customer: 'Simon X.', date: '1/7/2020', purchaseTotal: 81 },
+    {customer: 'Simon X.', date: '2/2/2020', purchaseTotal: 220 },
+]
