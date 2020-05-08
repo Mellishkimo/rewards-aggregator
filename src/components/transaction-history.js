@@ -6,7 +6,7 @@ class TransactionHistory extends React.Component {
 
     render () {
         return (
-            <div id="headspace">
+            <div>
                 <h2>Transaction History</h2>
                 <table>
                     <thead>
