@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
 import Instructions from './components/instructions';
-import SampleCalculation from './components/sample-calculation';
+import TransactionHistory from './components/transaction-history';
 import TotalRewards from './components/total-rewards'
 
 class App extends React.Component {
@@ -12,7 +12,7 @@ class App extends React.Component {
           <Instructions />
         </div>
         <div>
-          <SampleCalculation />
+          <TransactionHistory />
         </div>
         <div>
           <TotalRewards />

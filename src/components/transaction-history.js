@@ -2,7 +2,7 @@ import React from 'react'
 import { calculateRewards } from '../utils/index'
 import { transactions } from '../helpers/transaction-data'
 
-class SampleCalculation extends React.Component {
+class TransactionHistory extends React.Component {
 
     render () {
         return (
@@ -33,4 +33,4 @@ class SampleCalculation extends React.Component {
     }
 }
 
-export default SampleCalculation
+export default TransactionHistory
